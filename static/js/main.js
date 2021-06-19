@@ -142,7 +142,7 @@
   }
 
   /**
-   * Skills animation
+   * Skills animation === NOTE THAT THIS HAS BEEN CHANGED
    */
   let skilsContent = select('.skills-content');
   if (skilsContent) {
@@ -213,9 +213,9 @@
   });
 
   /**
-   * Testimonials slider
+   * tools slider
    */
-  new Swiper('.testimonials-slider', {
+  new Swiper('.tools-slider', {
     speed: 600,
     loop: true,
     autoplay: {
