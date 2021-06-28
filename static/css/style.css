@@ -804,7 +804,16 @@ section {
 .tools .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #8ccdb0;
 }
+/* I added these codes myself */
 
+.tools th {
+  font-weight: bold;
+}
+.tools .level { 
+  color: #8ccdb0;
+  font-weight: bold;
+  font-style: italic;
+}
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
